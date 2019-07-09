@@ -1,2 +1,2 @@
 # some1.ch
-building MFT 2.0
+Building a MFT 2.0
